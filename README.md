@@ -24,8 +24,4 @@ Hecho con **HTML y CSS**, responsive para dispositivos móviles.
 ## Autor
 Milagros
 
-## Ver el CV
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tuusuario/cv-tecnico.git
 
