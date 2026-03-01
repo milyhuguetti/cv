@@ -21,7 +21,8 @@ Presenta:
 
 Hecho con **HTML y CSS**, responsive para dispositivos móviles.
 
+## Ver online
+https://milyhuguetti.github.io/cv/index1.html
+
 ## Autor
 Milagros
-
-
